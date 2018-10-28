@@ -1,0 +1,75 @@
+body {
+    background-color: #F0F8FF;
+}
+
+
+.codeForm .row {
+    margin-top: 50px;
+}
+
+.codeForm .rowAfter {
+    margin-top: 20px;
+}
+
+.inputFieldTitle {
+    font-size: 1.6rem;
+}
+
+.inputFieldInfo {
+    font-size: 1rem;
+    color: grey;
+}
+
+.form-control {
+    font-weight: 300;
+}
+
+.inputer .form-control {
+        top: -40px !important;
+}
+
+.createCodesForm .form-control {
+    background-color: #fff !important;
+}
+
+.form-control:-moz-placeholder {
+    color: #c0c1c3 !important;
+}
+
+.sectionTitle {
+    font-size: 1.9rem;
+    border-bottom: 1px solid grey;
+}
+
+.form-control:-ms-input-placeholder {
+    color: #c0c1c3 !important;
+}
+
+.greyBorder {
+    border: 1px solid lightgray !important;
+}
+
+.persAttr {
+    width: 14%;
+    float:left;
+}
+
+.gapAttr{
+    width: 14%;
+    float right;
+}
+
+.contactAttr {
+    width: 14%;
+    float: left;
+}
+
+.infoAttr {
+    width: 70%;
+    float: right;
+}
+
+.panel-heading {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
